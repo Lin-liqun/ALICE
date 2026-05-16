@@ -43,5 +43,3 @@ If you found this code useful, please cite the paper. Welcome ğŸ‘Fork and Starğ
   keywords={Cameras;Image restoration;Image color analysis;Perturbation methods;Degradation;Lighting;Colored noise;Wavelet transforms;Frequency modulation;Superresolution;Color-monochrome cameras;low-light aerial imaging},
   doi={10.1109/TGRS.2025.3557565}}
 ```
-## Acknowledgements
-This work is based on [LDRM](https://github.com/JHLin42in/LDRM).
